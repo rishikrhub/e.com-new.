@@ -4,7 +4,6 @@ import { Input } from 'postcss';
 const config = {
   plugins: {
     tailwindcss: {},
-    
   },
 };
 
